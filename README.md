@@ -1,4 +1,5 @@
 # Architectures
 ParalleleUndVerteilteSysteme/Exercises/05_Architectures 
 
-LOOL
+- [Aufgabenstellung](Tasks.md)
+- 
