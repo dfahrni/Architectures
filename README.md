@@ -1,5 +1,5 @@
 # Architectures
-ParalleleUndVerteilteSysteme/Exercises/05_Architectures 
+### ParalleleUndVerteilteSysteme/Exercises/Architectures 
 
 - [Aufgabenstellung](Tasks.md)
 - 
